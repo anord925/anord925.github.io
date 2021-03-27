@@ -78,8 +78,8 @@ li a:hover {
     position: absolute;
     overflow: auto;
     top: 0;
-    margin: 14vh 0 0 0;
-    padding: 0 25vw 4vh 2vw;
+    margin: 80px 0 0 0;
+    padding: 0 25vw 0 2vw;
     width: 73vw;
     z-index: 1;
 }
@@ -96,8 +96,8 @@ li a:hover {
     font-family: 'Sawarabi Mincho', sans-serif;
     position: absolute;
     font-size: 19px;
-    margin: 23vh 24vw 2vh 2vw;
-    padding: 12vh 7vw 4vh 6vw;
+    margin: 135px 24vw 0 2vw;
+    padding: 50px 7vw 120px 6vw;
     width: 70vw;
 }
 
