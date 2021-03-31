@@ -1,2 +1,2 @@
-research/2021-03-27.html <Test Research Post> buncha-chimeras.png
-play/2021-03-27.html <Test Play Post> oh-hi-fren.jpg
+research/2021-03-30.html <Test Research Post> buncha-chimeras.png
+play/2021-03-30.html <Test Play Post> oh-hi-fren.jpg
