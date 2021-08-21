@@ -1,1 +1,1 @@
-research/2021-08-21.html <Release of *HSI*, a Featherweight Sequence Indexing Toolkit> hsi-gitpage.png
+research/2021-08-21_2.html <Release of <em>HSI</em>, a Featherweight Sequence Indexing Toolkit> hsi-gitpage.png
